@@ -1,8 +1,13 @@
-# Template
-A template repository for Node.js app.
+# IAB
 
-## Quick start
+**Internal API Bridge**
 
-Select `Use this template` at the menu bar.
+> This project is part of [Univ UC](https://github.com/univuc).
 
-Replace every occurrences of `IAB` and `{description}` to your project's name and description.
+## Features
+
+IAB is a library, which consists of a set of functions.
+
+### Internal API wrapper
+
+IAB helps to facilitate internal RESTful APIs.
