@@ -17,8 +17,8 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-import * as UIP from 'lib/services/UIP';
-import * as SMS from 'lib/services/SMS';
+import * as UIP from './lib/services/UIP';
+import * as SMS from './lib/services/SMS';
 
 export {UIP};
 export {SMS};
