@@ -11,3 +11,7 @@ IAB is a library, which consists of a set of functions.
 ### Internal API wrapper
 
 IAB helps to facilitate internal RESTful APIs.
+
+### Common
+
+IAB provides common features like networking, arg, env, logging, etc.

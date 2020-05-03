@@ -2,11 +2,6 @@
   "name": "iab",
   "version": "1.0.0",
   "description": "Internal API Bridge",
-  "main": "index.mjs",
-  "scripts": {
-    "start": "node -r esm index.mjs",
-    "test": "jest"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/univuc/IAB.git"
@@ -23,6 +18,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "esm": "^3.2.25",
+    "minimist": "^1.2.5",
     "qs": "^6.9.3",
     "stack-trace": "0.0.10",
     "winston": "^3.2.1"
