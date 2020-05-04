@@ -17,10 +17,12 @@
   "homepage": "https://github.com/univuc/IAB#readme",
   "dependencies": {
     "axios": "^0.19.2",
+    "axios-cookiejar-support": "^1.0.0",
     "esm": "^3.2.25",
     "minimist": "^1.2.5",
     "qs": "^6.9.3",
     "stack-trace": "0.0.10",
+    "tough-cookie": "^4.0.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
