@@ -35,5 +35,9 @@ export default {
         login: 'https://cyber.inu.ac.kr/login/index.php',
         kicked: 'https://cyber.inu.ac.kr/login.php',
     },
+
+    secrets: {
+        internal: getEnv('INTERNAL_SECRET'),
+    },
 };
 
