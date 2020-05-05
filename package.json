@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/univuc/IAB#readme",
   "dependencies": {
+    "@hapi/boom": "^9.1.0",
     "axios": "^0.19.2",
     "axios-cookiejar-support": "^1.0.0",
     "esm": "^3.2.25",
